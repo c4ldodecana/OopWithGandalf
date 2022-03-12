@@ -9,6 +9,6 @@ When start running, the program will request the value of the "Power".
 
 This Power can be applicable in Atack or Defense Methods, like in a Table RPG Game 
 
-The storyline was based in the Lord Of The Rings and Tolkien Universe. 
+The storyline is base in the Lord Of The Rings and Tolkien Universe. 
 
 So, did you like it? Let's go to improve these code together? ;) 
